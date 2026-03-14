@@ -1,0 +1,7 @@
+buatlah sebuah program bahasa C untuk layanan jasa antar barang dengan nama DEL-Express. dengan sistem yang transparan dan pethitungannya otomatis tanpa ada kesalahan. ini hal hal yang perlu juga, untuk kode kota: MDN,BLG,JKT,SBY. untuk nama kota ada Medan, Balige, Jakarta, Surabaya. untuk ongkos kirim/kg:8000,5000,12000,13000. untuk keterangan: Dalam pulau, Dalam Pulau, Luar pulau, Luar pulau. dan buat programnya ketika sedang bulan lebaran, maka akan ada promo yaitu jika total berat pengiriman lebih dari 10kg maka akan diskon 10%. promo kedua jika pengiriman ke kota luar pulau, maka mendapatkan asuransi gratis. inputan yang di perlukan hanya kode kota tujuan serta berat paket, dan programnya akan menghitung sseluruh biaya secara otomatis. untuk kode: MDN, BLG,JKT,SBY. dan untuk kota tujuan: Medan, Balige, Jakarta, Surabaya. buatkan juga untuk menghentikan sistem jika sudah selseai memasukkan inputan di ahiri dengan "END" lalu program akan langsung menghitung keseluruhan. contoh inputannya:
+5
+JKT
+3
+BLG
+4
+END   outputannya Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,

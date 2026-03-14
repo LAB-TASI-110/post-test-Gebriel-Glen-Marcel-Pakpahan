@@ -1,0 +1,56 @@
+gunakan program pakai bahasa C. disini diminta membuat sistem yang mendukung operasional kafetaria IT Del. jadi bisa memesan kopi/makanan/booking meja. untuk jenis kopi, ada Kopi Tubruk: Rp 15.000
+
+Americano: Rp 25.000
+V60: Rp 40.000
+
+French Press: Rp 35.000
+
+Cold Brew: Rp 40.000
+
+Caffe Latte: Rp 35.000
+
+Cappuccino: Rp 35.000
+
+Flat White: Rp 35.000
+
+Tiramisu (Latte/Blend): Rp 35.000
+
+Red Velvet (Latte/Blend): Rp 35.000
+
+Avocado Coffee: Rp 45.000.nah jadi sistemnya bisa memesan kopi dengan inputan yang perlu yaitu nama pemesan, kopi apa, berapa shot. outputan nya yagn akan keluar adalah nama pemesan, jenis kopi yang di pesan, shot yang diminta, harga biaya kopi. untuk memesan makanan dengan inputan yang perlu yaitu nama pemesanan, makanan apa(buat 2 jenis, makanan berat atau makanan ringan), untuk jenis jenis mkanannya, makanan berat :Chicken Cordon Bleu / Chicken Chop: Rp 65.000
+
+Burger & Fries: Rp 65.000
+
+Spaghetti (Carbonara / Aglio Olio / Bolognese): Rp 60.000
+
+Nasi Goreng Spesial: Rp 55.000
+
+Rice Bowl (Beef Teriyaki / Chicken Katsu / Dori): Rp 50.000
+
+Indomie Kekinian (Topping lengkap): Rp 35.000
+
+Makanan Ringan (Snacks / Pastry):
+
+
+
+Mix Platter (Kentang, Sosis, Nugget, Onion Rings): Rp 55.000
+
+Chicken Wings: Rp 45.000
+
+Croissant / Aneka Pastry: Rp 45.000
+
+French Fries (Kentang Goreng): Rp 35.000
+
+Dimsum: Rp 35.000
+
+Churros: Rp 35.000
+
+Pisang Goreng Cokelat Keju: Rp 30.000untuk outputan yang akan keluar yaitu nama pemesan, jenis makanan yang di pesan, dan harga dari pesanan. untuk booking meja, untuk harga dan orang di meja Meja 2 Orang: Rp 100.000 (Minimum Order)
+
+Meja 3 Orang: Rp 150.000 (Minimum Order)
+
+Meja 4 Orang: Rp 200.000 (Minimum Order)
+
+Meja 5 Orang: Rp 250.000 (Minimum Order)
+
+Meja 6 Orang: Rp 300.000 (Minimum Order). inputan yang perlu yaitu nama pemesanan, meja untuk berapa orang. untuk outputan yang keluar nama pemesan, nomor meja, dan harga dari pesanan. itu untuk sistemnya. tapi sebelum itu agar user tau harga nya, berikan pertanyaan apakah dengan harga yang di pesnnya setuju atau cancel. jika setuju maka langsung proses programnya, namun jika cancel berikan lagi pertanyaan apakah user ingin mengganti pesanan apa tidak, jika ingin maka berikan ulang dari awal programnya, namun jika tidak berikan saja kata kata terimakasih sudah berkunjung. pastikan setiap user memesan outputan terakhir ada kata kata terimakasih untuk user
