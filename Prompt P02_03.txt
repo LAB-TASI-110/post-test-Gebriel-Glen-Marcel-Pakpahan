@@ -1,4 +1,4 @@
-gunakan program pakai bahasa C. disini diminta membuat sistem yang mendukung operasional kafetaria IT Del. jadi bisa memesan kopi/makanan/booking meja. untuk jenis kopi, ada Kopi Tubruk: Rp 15.000
+gunakan program pakai bahasa C..disini diminta membuat sistem yang mendukung operasional kafetaria IT Del. jadi bisa memesan kopi/makanan/booking meja. untuk jenis kopi, ada Kopi Tubruk: Rp 15.000
 
 Americano: Rp 25.000
 V60: Rp 40.000

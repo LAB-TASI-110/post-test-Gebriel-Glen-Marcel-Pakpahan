@@ -167,7 +167,7 @@ int main() {
                 continue; // Mengulang program dari awal (menu utama)
             } else {
                 printf("\nTerimakasih sudah berkunjung ke Kafetaria IT Del!\n");
-                break; // Keluar dari program
+                break; 
             }
         }
     }

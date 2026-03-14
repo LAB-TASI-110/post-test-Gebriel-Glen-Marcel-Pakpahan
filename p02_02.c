@@ -40,7 +40,7 @@ int main() {
         }
     }
 
-    // Output Hasil
+   
     printf("\n==========================================\n");
     printf("Total stok untuk kategori %d adalah: %d pcs\n", kode_cari, total_stok);
     printf("==========================================\n");

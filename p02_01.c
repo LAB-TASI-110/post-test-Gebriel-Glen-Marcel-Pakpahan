@@ -115,7 +115,7 @@ int main() {
         printf("[-] Tidak dapat asuransi (Hanya Tujuan Dalam Pulau)\n");
     }
 
-    // Grand Total
+  
     double total_bayar = total_ongkos - diskon;
     printf("\n==========================================\n");
     printf("TOTAL YANG HARUS DIBAYAR : Rp %.0f\n", total_bayar);

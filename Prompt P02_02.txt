@@ -1,1 +1,1 @@
-buat program bahasa C yang bener bener bisa nentuin total dari stok hanya untuk kategori barang yang diminta. untuk minyak 120pcs, rok pramuka 5 pcs, gula 85 pcs, dasi sd 22 pcs. untuk inpuran jumlah total data (N), Deret stok (s1, s2, ..., sN), untuk Kode kategori barang.
+buat program bahasa C yang bener bener bisa nentuin total dari stok hanya untuk kategori barang yang diminta. untuk minyak 120pcs, rok pramuka 5 pcs, gula 85 pcs, dasi sd 22 pcs. untuk inpuran jumlah total data (N), Deret stok (s1, s2, ..., sN), untuk Kode kategori barang..
